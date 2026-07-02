@@ -7,6 +7,10 @@ payload:
   - DOMAIN-SUFFIX,gallerycdn.vsassets.io,DIRECT
   - DOMAIN-SUFFIX,gallerycdn.azure.cn,DIRECT
   - DOMAIN-SUFFIX,youdao.com,DIRECT
+  - DOMAIN-SUFFIX,postman.com,Proxy
+  - DOMAIN-SUFFIX,getpostman.com,Proxy
+  - DOMAIN-SUFFIX,dl.pstmn.io,Proxy
+  - DOMAIN-SUFFIX,elastic.co,Proxy
   - DOMAIN-SUFFIX,xslist.org,Pussy
   - DOMAIN-SUFFIX,pornfind.org,Pussy
   - DOMAIN-KEYWORD,byj,Pussy
