@@ -608,5 +608,4 @@ payload:
   - DOMAIN,tv.applemusic.com
   - DOMAIN,uts-api.itunes.apple.com
   - DOMAIN-SUFFIX,tv.apple.com
-
   - DOMAIN,www.apple.com
