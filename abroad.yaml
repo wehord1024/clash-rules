@@ -1,4 +1,9 @@
 payload:
+  - 'tello.com'
+  - 'postman.com'
+  - 'getpostman.com'
+  - 'dl.pstmn.io'
+  - 'elastic.co'
   - 'nordsec.com'
   - 'nordcdn.com'
   - 'saily.com'
