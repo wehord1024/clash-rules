@@ -5,4 +5,5 @@ payload:
   - gallerycdn.vsassets.io
   - gallerycdn.azure.cn
   - youdao.com
+  - '+.jsdelivr.net'
 
