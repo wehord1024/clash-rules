@@ -15,7 +15,7 @@ payload:
   - 'copilot-proxy.githubusercontent.com'
   - 'copilot-telemetry-service.githubusercontent.com'
   - 'copilot-telemetry.githubusercontent.com'
-  - 'copilot-workspace.githubnext.com
+  - 'copilot-workspace.githubnext.com'
   - 'copilotprodattachments.blob.core.windows.net'
   - 'cp4.cloudflare.com'
   - 'daily-cloudcode-pa.googleapis.com'
